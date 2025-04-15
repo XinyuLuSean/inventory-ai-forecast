@@ -1,4 +1,3 @@
-!pip install prophet gspread oauth2client google-api-python-client pandas
 import pandas as pd
 import numpy as np
 from prophet import Prophet
